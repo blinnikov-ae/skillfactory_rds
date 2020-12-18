@@ -98,9 +98,7 @@ from dst_project.flights f
         on f.aircraft_code = aa.aircraft_code
     join tckts t
         on f.flight_id = t.flight_id
-where ((extract(month from f.scheduled_departure) > 11 
+where (extract(month from f.scheduled_departure) > 11 
         or extract(month from f.scheduled_departure) < 2)
-        or (extract(month from f.scheduled_arrival) > 11 
-        or extract(month from f.scheduled_arrival) < 2))
-    and (f.departure_airport = 'AAQ' or f.arrival_airport = 'AAQ')
+    and f.departure_airport = 'AAQ'
     and f.status not in ('Cancelled')
