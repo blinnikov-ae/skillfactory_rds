@@ -1,5 +1,5 @@
 ![Title PNG "TripAdvisor"](https://github.com/blinnikov-ae/skillfactory_rds/blob/master/module_3/tripadvisor_logo.png)
-# Проект №3. Рекомендательные системы
+# Проект №3. Restaurant Rating prediction.
 * [Задача](#задача)
 * [Данные](#данные)
 * [Ноутбуки](#ноутбуки)

@@ -1,5 +1,5 @@
 ![Title PNG "Tinkoff"](https://github.com/blinnikov-ae/skillfactory_rds/blob/master/module_5/tinkoff_logo.png)
-# Проект №3. Рекомендательные системы
+# Проект №3. Credit Scoring.
 * [Задача](#задача)
 * [Данные](#данные)
 * [Ноутбуки](#ноутбуки)
