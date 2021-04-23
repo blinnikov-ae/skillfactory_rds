@@ -1,4 +1,4 @@
-![Title PNG "TripAdvisor"](/tripadvisor_logo.png)
+![Title PNG "TripAdvisor"](/4readme/tripadvisor_logo.png)
 # Проект №3. Рекомендательные системы
 * [Задача](#задача)
 * [Данные](#production-сервис)
