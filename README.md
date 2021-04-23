@@ -1,4 +1,4 @@
-![Title PNG "Tinkoff"](https://github.com/blinnikov-ae/skillfactory_rds/blob/master/module_5/tinkoff_logo.png)
+![Title PNG "Tinkoff"](https://github.com/blinnikov-ae/skillfactory_rds/skillfactory_logo.png)
 # Учебный репозинорий
 
 ## Итересные проекты:
