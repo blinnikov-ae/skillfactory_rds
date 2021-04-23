@@ -5,11 +5,13 @@
 * [Ноутбуки](#ноутбуки)
 * [Коментарии](#коментарии)
 
-Профиль Kaggle: [Alexey Blinnikov](https://www.kaggle.com/alexeyblinnikov)
+Профиль Kaggle:
 
-                [Kaggle ноутбук](https://www.kaggle.com/alexeyblinnikov/tripadvisor-rating-blinnikov-ae?scriptVersionId=60133071)
+[Alexey Blinnikov](https://www.kaggle.com/alexeyblinnikov)
 
-                [Актуальный Leaderboard](https://www.kaggle.com/c/sf-dst-restaurant-rating/leaderboard)
+[Kaggle ноутбук](https://www.kaggle.com/alexeyblinnikov/tripadvisor-rating-blinnikov-ae?scriptVersionId=60133071)
+
+[Актуальный Leaderboard](https://www.kaggle.com/c/sf-dst-restaurant-rating/leaderboard)
 
 ## Задача
 
