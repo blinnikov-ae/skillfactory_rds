@@ -1,16 +1,19 @@
 ![Title PNG "TripAdvisor"](https://github.com/blinnikov-ae/skillfactory_rds/blob/master/module_3/tripadvisor_logo.png)
 # Проект №3. Рекомендательные системы
 * [Задача](#задача)
-* [Данные](#production-сервис)
-* [Структура репозитория](#структура-репозитория)
+* [Данные](#данные)
+* [Ноутбуки](#ноутбуки)
 * [Коментарии](#коментарии)
 
 Профиль Kaggle: [Alexey Blinnikov](https://www.kaggle.com/alexeyblinnikov)
 
-                [Kaggle ноутбук](TripAdvisor-Rating-Blinnikov-AE.ipynb)
+                [Kaggle ноутбук](https://www.kaggle.com/alexeyblinnikov/tripadvisor-rating-blinnikov-ae?scriptVersionId=60133071)
+
+                [Актуальный Leaderboard](https://www.kaggle.com/c/sf-dst-restaurant-rating/leaderboard)
 
 ## Задача
 
+Предсказание рейтинга ресторанов. По легенде, может быть использовано для определния аномально высоких рейтингов, свидетельствующих о накрутке отзывов.
 > https://www.kaggle.com/c/sf-dst-restaurant-rating
 
 ## Данные
@@ -35,3 +38,13 @@
 #### Вспомогательные файлы
 - [model_selection.csv](model_selection.csv) - Обработанная тренировочная выборка, подается на вход в [ноутбук](TripAdvisor_model_selection.ipynb) подбора параметров модели
 - [TA_ratings_04_2021.csv](TA_ratings_04_2021.csv) - Резултат [ноутбука](TripAdvisor_actual_rating_april_2021.ipynb), запрашивающего актуальные рейтинги с https://www.tripadvisor.com/
+
+## Ноутбуки
+- [TripAdvisor-Rating-Blinnikov-AE.ipynb](TripAdvisor-Rating-Blinnikov-AE.ipynb) - Основной Kaggle Notebook, в котором производилась работа.
+- [TripAdvisor-Rating-Blinnikov-AE(Jupyter_version).ipynb](TripAdvisor-Rating-Blinnikov-AE(Jupyter_version).ipynb) - Версия ноутбука для Jupyter. Без операционной и фаловой ситем Kaggle. Так же отличается синтексис Word2Vec.
+### Вспомогательные ноутбуки
+- [TripAdvisor_actual_rating_april_2021.ipynb](TripAdvisor_actual_rating_april_2021.ipynb) - Внутри ноутбука выполнялись HTML-запросы. Выполнение заняло около суток.
+- [TripAdvisor_model_selection.ipynb](TripAdvisor_model_selection.ipynb) - Ноутбук для подбора параметров моделей.
+
+## Коментарии
+Работа с API TripAdvisor и Google, могла бы существенно ускорить процесс и сократить код. На момент последнего сабмита, ноутбук неплохо показывал себя в соревнии.
