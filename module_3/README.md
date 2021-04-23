@@ -9,7 +9,7 @@
 
 [Alexey Blinnikov](https://www.kaggle.com/alexeyblinnikov)
 
-[Kaggle ноутбук](TripAdvisor-Rating-Blinnikov-AE.html)
+[Kaggle ноутбук](/MD-notebook/TripAdvisor-Rating-Blinnikov-AE.md)
 
 [Актуальный Leaderboard](https://www.kaggle.com/c/sf-dst-restaurant-rating/leaderboard)
 
