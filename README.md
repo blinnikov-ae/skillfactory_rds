@@ -11,7 +11,12 @@
 - [Проект №5](module_5) - Credit Scoring.
 >* Основная задача: Предсказание риска дефолта заемщиков банка.
 >* Основные навыки: Понимание и работа с базовыми алгоритмами ML.
->> https://www.kaggle.com/c/sf-dst-restaurant-rating
+>> https://www.kaggle.com/c/sf-dst-scoring/overview
+
+- [Проект №6](module_6) - Car Price.
+>* Основная задача: Прогнозирование стоимости автомобиля по характеристикам.
+>* Основные навыки: Парсинг данных, работа с ансаблями моделей.
+>> https://www.kaggle.com/c/sf-dst-car-price-prediction/overview
 
 ## Базовые проекты:
 
