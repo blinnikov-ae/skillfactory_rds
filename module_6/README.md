@@ -24,7 +24,7 @@
 ## Данные
 ### Входные данные
 - [test.csv](https://www.kaggle.com/c/sf-dst-car-price-prediction/data?select=test.csv) - Тестовая выборка данных для предсказаний на Kaggle
-- [all_auto_ru_09_09_2020.csv](thttps://www.kaggle.com/sokolovaleks/parsing-all-moscow-auto-ru-09-09-2020?select=all_auto_ru_09_09_2020.csv) - Старый парсинг данных, предоставленный с baseline проекта.
+- [all_auto_ru_09_09_2020.csv](https://www.kaggle.com/sokolovaleks/parsing-all-moscow-auto-ru-09-09-2020?select=all_auto_ru_09_09_2020.csv) - Старый парсинг данных, предоставленный с baseline проекта.
 - [extended_train.csv](https://www.kaggle.com/alexeyblinnikov/car-price-spring-2021?select=extended_train.csv) - Результат собственноручного парсинга
 - [sample_submission.csv](https://www.kaggle.com/c/sf-dst-car-price-prediction/data?select=sample_submission.csv) - Файл содержит формат ответа
 
