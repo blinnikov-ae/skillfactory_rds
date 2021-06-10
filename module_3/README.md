@@ -38,7 +38,6 @@
 #### Вспомогательные файлы
 - [model_selection.csv](model_selection.csv) - Обработанная тренировочная выборка, подается на вход в [ноутбук](TripAdvisor_model_selection.ipynb) подбора параметров модели
 - [TA_ratings_04_2021.csv](TA_ratings_04_2021.csv) - Резултат [ноутбука](TripAdvisor_actual_rating_april_2021.ipynb), запрашивающего актуальные рейтинги с https://www.tripadvisor.com/
-- [TripAdvisor-Rating-Blinnikov-AE.html](TripAdvisor-Rating-Blinnikov-AE.html) - Поскольку ноутбук довольно длинный, HTML-файл позволяет быстрее загрузить и просмотреть ноутбук на GitHub
 ## Ноутбуки
 - [TripAdvisor-Rating-Blinnikov-AE.ipynb](TripAdvisor-Rating-Blinnikov-AE.ipynb) - Основной Kaggle Notebook, в котором производилась работа.
 - [TripAdvisor-Rating-Blinnikov-AE(Jupyter_version).ipynb](TripAdvisor-Rating-Blinnikov-AE(Jupyter_version).ipynb) - Версия ноутбука для Jupyter. Без операционной и фаловой ситем Kaggle. Так же отличается синтексис Word2Vec.
